@@ -1,0 +1,1 @@
+SELECT SUM(developers.salary) FROM developers
